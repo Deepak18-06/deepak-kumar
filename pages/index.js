@@ -64,7 +64,7 @@ export default function Home() {
               <a href="https://twitter.com/avoidedeepak" target="_blank" rel="noopener noreferrer">
                 <AiFillTwitterCircle />
               </a>
-              <a href="https://www.linkedin.com/in/deepak-kumar-86a831184/" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.linkedin.com/in/voideepak/" target="_blank" rel="noopener noreferrer">
                 <AiFillLinkedin />
               </a>
               <a href="https://github.com/Deepak18-06" target="_blank" rel="noopener noreferrer">
