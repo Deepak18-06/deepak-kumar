@@ -82,7 +82,7 @@ export default function Home() {
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
               Hello! I'm a versatile engineer skilled in Ruby on Rails and Node.js, crafting efficient digital solutions.
               I'm passionate about exploring Artificial Intelligence and Machine Learning, using data-driven insights to create 
-              smart applications. Additionally, I've delved into Rust for added performance and reliability. 
+              smart applications.
             </p>
           </div>
           <div className="lg:flex gap-10">
